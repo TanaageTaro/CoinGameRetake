@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0a1f1613821ccfa48ab69d6e319afdef
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - OpeningBGM: {fileID: 8300000, guid: a3fee8309a50faa409a214d69e79d6ba, type: 3}
+  - TapText: {fileID: 5156907815474053693, guid: 833b42ce74221554e9fee0b6d86898f0, type: 3}
+  - playstart: {fileID: 6212853770948705823, guid: 02b3b24a44698cc4aaf37b82b0dcfde1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
